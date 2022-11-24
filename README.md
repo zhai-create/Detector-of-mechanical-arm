@@ -1,0 +1,1 @@
+# Detector-of-mechanical-arm
