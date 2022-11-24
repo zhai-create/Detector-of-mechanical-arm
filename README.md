@@ -7,3 +7,9 @@
 - Press the "Enter" key to start video detection. The upper left corner displays the video frame rate, and the lower part displays the motion status of the mechanical arm detected in the video, including "static", "upward shaking", and "downward shaking".
 - If you want to end the detection in advance, you can press the "q" key to end the detection. When the video is played, the robot arm detection will also be ended.
 - After video detection, the detected video will be saved in the current folder, and the file name is "out. avi".
+
+## Data
+- test.mp4
+
+## Result
+- output.avi
